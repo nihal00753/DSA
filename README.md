@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nihal00753/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nihal00753/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nihal00753/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/nihal00753/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nihal00753/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nihal00753/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nihal00753/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nihal00753/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nihal00753/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nihal00753/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/nihal00753/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nihal00753/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nihal00753/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nihal00753/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -97,8 +99,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nihal00753/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/nihal00753/DSA/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nihal00753/DSA/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nihal00753/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nihal00753/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

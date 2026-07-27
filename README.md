@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nihal00753/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/nihal00753/DSA/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/nihal00753/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nihal00753/DSA/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nihal00753/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nihal00753/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/nihal00753/DSA/tree/master/0904-fruit-into-baskets) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nihal00753/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nihal00753/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nihal00753/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nihal00753/DSA/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/nihal00753/DSA/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/nihal00753/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nihal00753/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/nihal00753/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nihal00753/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/nihal00753/DSA/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nihal00753/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nihal00753/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/nihal00753/DSA/tree/master/0680-valid-palindrome-ii) |

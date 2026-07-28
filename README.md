@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nihal00753/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nihal00753/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nihal00753/DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/nihal00753/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/nihal00753/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nihal00753/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nihal00753/DSA/tree/master/0088-merge-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nihal00753/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nihal00753/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/nihal00753/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nihal00753/DSA/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/nihal00753/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nihal00753/DSA/tree/master/0242-valid-anagram) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nihal00753/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nihal00753/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nihal00753/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/nihal00753/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/nihal00753/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nihal00753/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nihal00753/DSA/tree/master/0217-contains-duplicate) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nihal00753/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nihal00753/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/nihal00753/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nihal00753/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/nihal00753/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nihal00753/DSA/tree/master/0151-reverse-words-in-a-string) |

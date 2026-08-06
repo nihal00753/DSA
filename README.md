@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nihal00753/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nihal00753/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/nihal00753/DSA/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/nihal00753/DSA/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nihal00753/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nihal00753/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nihal00753/DSA/tree/master/0567-permutation-in-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nihal00753/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nihal00753/DSA/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/nihal00753/DSA/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nihal00753/DSA/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/nihal00753/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->

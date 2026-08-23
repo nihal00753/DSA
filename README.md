@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nihal00753/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/nihal00753/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/nihal00753/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/nihal00753/DSA/tree/master/0853-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/nihal00753/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/nihal00753/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/nihal00753/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nihal00753/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nihal00753/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/nihal00753/DSA/tree/master/0611-valid-triangle-number) |
+| [0853-car-fleet](https://github.com/nihal00753/DSA/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/nihal00753/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -182,11 +184,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nihal00753/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/nihal00753/DSA/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/nihal00753/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/nihal00753/DSA/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nihal00753/DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/nihal00753/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/nihal00753/DSA/tree/master/0853-car-fleet) |
 ## Bit Manipulation
 |  |
 | ------- |

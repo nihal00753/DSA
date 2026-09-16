@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/nihal00753/DSA/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/nihal00753/DSA/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/nihal00753/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/nihal00753/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/nihal00753/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/nihal00753/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nihal00753/DSA/tree/master/0853-car-fleet) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nihal00753/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/nihal00753/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/nihal00753/DSA/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/nihal00753/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/nihal00753/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/nihal00753/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
